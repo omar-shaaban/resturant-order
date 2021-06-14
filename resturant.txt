@@ -1,0 +1,65 @@
+
+---------------------------------------
+Code: 1
+Name: 1
+Phone: 1
+
+
+first-food: Classic Burger
+Second-food: Classic Burger
+Dessert: Banana Split
+Juice: Bottle Of Water
+Price: 175
+---------------------------------------
+
+---------------------------------------
+Code: 2
+Name: 1
+Phone: 1
+
+
+first-food: Classic Burger
+Second-food: Classic Burger
+Dessert: Banana Split
+Juice: Bottle Of Water
+Price: 175
+---------------------------------------
+
+---------------------------------------
+Code: 3
+Name: 1
+Phone: 1
+
+
+first-food: Classic Burger
+Second-food: Classic Burger
+Dessert: Banana Split
+Juice: Bottle Of Water
+Price: 175
+---------------------------------------
+
+---------------------------------------
+Code: 4
+Name: 1
+Phone: 1
+
+
+first-food: Classic Burger
+Second-food: Classic Burger
+Dessert: Banana Split
+Juice: Bottle Of Water
+Price: 175
+---------------------------------------
+
+---------------------------------------
+Code: 5
+Name: 1
+Phone: 1
+
+
+first-food: Classic Burger
+Second-food: Classic Burger
+Dessert: Banana Split
+Juice: Bottle Of Water
+Price: 175
+---------------------------------------
